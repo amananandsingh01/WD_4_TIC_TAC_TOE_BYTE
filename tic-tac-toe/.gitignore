@@ -1,0 +1,25 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+
+# Build / Distribution
+dist/
+build/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Logs
+*.log
